@@ -1,7 +1,6 @@
 goroundhog
 ==========
-
-Are we having more winter?
+Will there be 6 more weeks of winter?
 
 run
 ===
